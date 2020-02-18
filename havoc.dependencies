@@ -16,5 +16,11 @@
     "repository": "Painkiller3/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "ten"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "ninadpatilbvp/vendor_xiaomi_beryllium_firmware",
+    "target_path": "vendor/xiaomi/beryllium/firmware",
+    "branch": "ten"
   }
 ]
