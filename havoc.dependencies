@@ -22,5 +22,11 @@
     "repository": "ninadpatilbvp/vendor_xiaomi_beryllium_firmware",
     "target_path": "vendor/xiaomi/beryllium/firmware",
     "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "Havoc-OS/android_packages_apps_Dirac",
+    "target_path": "packages/apps/Dirac",
+    "branch": "ten"
   }
 ]
